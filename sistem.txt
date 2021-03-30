@@ -1,0 +1,30 @@
+ Adv 
+===========================================================================================================
+yang ditampilkan : 
+Tanggal ,
+Code campaign ,
+product , 
+cs ,
+kontak,
+jt ,
+sales , 
+add spent ,
+10% total margin, 
+total margin , 
+gp sales ,
+5% gp sales
+input :Code campaign,product, cs, lead fb, add spent
+
+CS
+===========================================================================================================
+yang ditampilkan :  Tanggal , Code campaign ,product,nama ADV ,Lead fb , add spent , total margin ,gp sales , 5% gp sales
+input : Kontak , JT , sales ,total margin
+
+===========================================================================================================
+Cs bisa lihat advertiser yang tealah ditentukan
+
+
+======================================
+name in adv
+
+tanggal , code_campaign , cs , lead_fb , add_spent, margin

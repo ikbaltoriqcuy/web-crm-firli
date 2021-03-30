@@ -1,0 +1,58 @@
+Target Bulan Ini untuk cs
+Target Bulan Ini untuk adv
+Margin Total s.d tgl 14 february
+prosentase = (Margin Total * 100 /target)
+Bonus All Cs = 10% margin total semua cs
+Bonus ALL ADV = 5% gp sales semua adv
+
+atur_input_user
+
+bisa beberapa user sekaligus dalam satu form
+
+Pengaturan Input User diganti = Pasangan CS ADV
+
+data cs = data default dikeluarkan pada hari ini
+data adv = data default dikeluarkan pada hari ini
+
+input presnatasi acv 
+cuma target aja
+
+===========================================
+
+Menu CS
+
+Target bulanan tim 
+achievment tim = sum(margin total semua cs)
+presentase = (Margin Total * 100 /target)
+margin sales personal
+bonus 
+
+
+Tambah menu disamping 
+ Margin Sales Harian dan bonus
+
+dari tgl 1 - 14
+ Tgl 
+ Margin Sales
+ Bonus
+ total margin sales
+ total bonus
+
+=========================================================
+Menu ADV
+
+Target bulanan tim adv 
+achievment tim = sum(gp sales semua adv)
+presentase = (gp sales Total * 100 /target)
+gp sales personal
+bonus = 5% gp sales
+
+Tambah menu disamping 
+ gp Sales Harian dan bonus
+
+dari tgl 1 - 14
+ Tgl 
+ gp Sales
+ Bonus
+ total gp sales
+ total bonus
